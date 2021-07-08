@@ -1,0 +1,3 @@
+# AudioPlaybackCapture
+Android10新出录音接口demo
+没有对录音后的文件进行格式转换
